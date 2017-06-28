@@ -52,7 +52,7 @@ vue项目练习
 
 6.父子组件通信
 
-7.ESlint风格
+7.ESlint: [JavaScript Standard Style](https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style)
 
 8.svg转换为icon字体 [icomoon](https://icomoon.io/)
 
