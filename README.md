@@ -19,8 +19,11 @@ npm run build --report
 vue项目练习
 ---
 **参考：**
+
 1.[vue官网](https://cn.vuejs.org)
+
 2.[jspang-vue一系列教程](http://jspang.com)
+
 3.高仿饿了么vue项目视频
 
 **技术：**
